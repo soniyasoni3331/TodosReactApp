@@ -28,6 +28,7 @@ function App() {
           {/* todo form */}
           <div>
             <input type="text" />
+            <h1>this is a todo</h1>
           </div>
           {/* loop and add TodoItem  */}
           <div></div>
